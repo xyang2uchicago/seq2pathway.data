@@ -1,3 +1,5 @@
+seq2pathway.data 1.1.1:
+- Replace genes in the GENCODE mmV3 with genes in the GENCODE mmV4 for GO and MSigdb background genes.
+
 seq2pathway.data 0.99.0:
 - First submit to Bioconductor.
-

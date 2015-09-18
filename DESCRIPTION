@@ -1,10 +1,10 @@
 Package: seq2pathway.data
 Type: Package
 Title: data set for R package seq2pathway
-Version: 1.1.0
-Date: 2014-10-23
+Version: 1.1.1
+Date: 2015-07-09
 Author: Bin Wang <binw@uchicago.edu>
-Maintainer: Bin Wang <binw@uchicago.edu>
+Maintainer: Xinan Holly Yang <xyang2@uchicago.edu>
 Depends: R (>= 2.10.0)
 biocViews: ExperimentData
 Description: Supporting data for the seq2patheway package. Includes
