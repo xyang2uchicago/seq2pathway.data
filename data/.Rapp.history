@@ -1,0 +1,7 @@
+load("/Library/Frameworks/R.framework/Versions/3.6/Resources/library/seq2pathway.data/data/GO_GENCODE_df_hg_v19.rda")
+ls
+ls()
+class("GO_GENCODE_df_hg_v19")
+class(GO_GENCODE_df_hg_v19)
+dim(GO_GENCODE_df_hg_v19)
+head(GO_GENCODE_df_hg_v19)

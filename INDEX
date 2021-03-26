@@ -1,0 +1,38 @@
+Des_BP_list             Description of GO term BP
+Des_CC_list             Description of GO term CC
+Des_MF_list             Description of GO term MF
+GO_BP_list              Gene symbol list of GO term BP
+GO_CC_list              Gene symbol list of GO term CC
+GO_GENCODE_df_hg_v19    intersection genes of GO terms and GENCODE 19
+GO_GENCODE_df_hg_v20    intersection genes of GO terms and GENCODE 20
+GO_GENCODE_df_mm_vM1    intersection genes of GO terms and GENCODE vM1
+GO_GENCODE_df_mm_vM3    intersection genes of GO terms and GENCODE vM3
+GO_GENCODE_df_mm_vM4    intersection genes of GO terms and GENCODE vM4
+GO_MF_list              Gene symbol list of GO term MF
+MsigDB_C5               MsigDB data set
+Msig_GENCODE_df_hg_v19
+                        intersection genes of MSigDB collection and
+                        GENCODE 19
+Msig_GENCODE_df_hg_v20
+                        intersection genes of MSigDB collection and
+                        GENCODE 20
+Msig_GENCODE_df_mm_vM1
+                        intersection genes of MSigDB collection and
+                        GENCODE vM1
+Msig_GENCODE_df_mm_vM3
+                        intersection genes of MSigDB collection and
+                        GENCODE vM3
+Msig_GENCODE_df_mm_vM4
+                        intersection genes of MSigDB collection and
+                        GENCODE vM4
+dat_gene2path_RNA       demo result of gene2pathway function from RNA
+                        seq data
+dat_gene2path_chip      demo result of gene2pathway function from chip
+                        seq data
+dat_seq2pathway_GOterms
+                        demo result of seq2pathway function from chip
+                        seq data
+dat_seq2pathway_Msig    demo result of seq2pathway function from chip
+                        seq data
+gencode_coding          Coding gene list in GENCODE 20.
+gene_description        demo data of adding gene description
