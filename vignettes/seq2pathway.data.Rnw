@@ -106,17 +106,17 @@ These three lists include the description information of each GO terms. The name
 Data in this category will mainly be invoked internally by the functions in the \texttt{seq2pathway} package.
 
 %------------------------------------
-\subsection{GO\_GENCODE\_df\_hg\_v19; GO\_GENCODE\_df\_hg\_v20; GO\_GENCODE\_df\_mm\_vM1; GO\_GENCODE\_df\_mm\_vM4}
+\subsection{GO\_GENCODE\_df\_hg\_v19; GO\_GENCODE\_df\_hg\_v36; GO\_GENCODE\_df\_mm\_vM1; GO\_GENCODE\_df\_mm\_vM25}
 %-------------------------------------
-The gene set varies from different gene databese sources. The gene symbols of GO terms are from \texttt{org.Hs.egGO2EG}\cite{Carlson}, the gene set in our annoation package is from the \texttt{GENCODE}\cite{Harrow} data sets, which attribute gene set by differenct organisms and assembly versions. These data frames record the common genes from different databases. For example, the \texttt{GO\_GENCODE\_df\_hg\_v19} data frame records the common genes from \texttt{org.Hs.egGO2EG} and \texttt{GENCODE} human species \texttt{19} version. In summary, there are 17998 genes in \texttt{GO\_GENCODE\_df\_hg\_v19}, 18015 genes in \texttt{GO\_GENCODE\_df\_hg\_v20}, 14328 genes in \texttt{GO\_GENCODE\_df\_mm\_vM1}, and 15075 genes in \texttt{GO\_GENCODE\_df\_mm\_vM4} respectively. 
+The gene set varies from different gene databese sources. The gene symbols of GO terms are from \texttt{org.Hs.egGO2EG}\cite{Carlson}, the gene set in our annoation package is from the \texttt{GENCODE}\cite{Harrow} data sets, which attribute gene set by differenct organisms and assembly versions. These data frames record the common genes from different databases. For example, the \texttt{GO\_GENCODE\_df\_hg\_v19} data frame records the common genes from \texttt{org.Hs.egGO2EG} and \texttt{GENCODE} human species \texttt{19} version. In summary, there are 17998 genes in \texttt{GO\_GENCODE\_df\_hg\_v19}, 20455 genes in \texttt{GO\_GENCODE\_df\_hg\_v36}, 14328 genes in \texttt{GO\_GENCODE\_df\_mm\_vM1}, and 22972 genes in \texttt{GO\_GENCODE\_df\_mm\_vM25} respectively. 
 
 Data in this category will mainly be invoked internally by the functions in the \texttt{seq2pathway} package.
 
 
 %------------------------------------
-\subsection{Msig\_GENCODE\_df\_hg\_v19; Msig\_GENCODE\_df\_hg\_v20; Msig\_GENCODE\_df\_mm\_vM1; Msig\_GENCODE\_df\_mm\_vM4}
+\subsection{Msig\_GENCODE\_df\_hg\_v19; Msig\_GENCODE\_df\_hg\_v36; Msig\_GENCODE\_df\_mm\_vM1; Msig\_GENCODE\_df\_mm\_vM25}
 %-------------------------------------
-These four data frames record the common genes from Molecular Signatures Database (\texttt{MsigDB})\cite{Subramanian} and the \texttt{GENCODE}\cite{Harrow} data sets. \texttt{MsigDB} is a collection of annotated gene sets. There are 22751 genes in \texttt{Msig\_GENCODE\_df\_hg\_v19}, 22721 genes in \texttt{Msig\_GENCODE\_df\_hg\_v20}, 15420 genes in \texttt{Msig\_GENCODE\_df\_mm\_vM1}, and 15528 genes in \texttt{Msig\_GENCODE\_df\_mm\_vM4}. 
+These four data frames record the common genes from Molecular Signatures Database (\texttt{MsigDB})\cite{Subramanian} and the \texttt{GENCODE}\cite{Harrow} data sets. \texttt{MsigDB} is a collection of annotated gene sets. There are 22751 genes in \texttt{Msig\_GENCODE\_df\_hg\_v19}, 22721 genes in \texttt{Msig\_GENCODE\_df\_hg\_v36}, 15420 genes in \texttt{Msig\_GENCODE\_df\_mm\_vM1}, and 16762 genes in \texttt{Msig\_GENCODE\_df\_mm\_vM25}. 
 
 Data in this category will mainly be invoked internally by the functions in the \texttt{seq2pathway} package.
 
