@@ -79,7 +79,7 @@
 \section{Abstract}
 %-------------------------------------------
 
-  \texttt{Seq2pathway.data} is supporting data for the \texttt{seq2pathway} package. The package includes pre-defined gene sets which are constructed from \texttt{R} package \texttt{org.Hs.eg.db}\cite{Carlson} for GeneOntology and the Molecular Signatures Database (MsigDB)\cite{Subramanian} for other functional gene sets. The gene locus definitions in the package is built from the \texttt{GENCODE project}\cite{Harrow}, including \texttt{GENCODE} \texttt{20} (hg38), \texttt{GENCODE} \texttt{19} (hg19), \texttt{GENCODE} \texttt{mmvM4} (mm10) and \texttt{GENCODE} \texttt{mmvM1} (mm9) currently.
+  \texttt{Seq2pathway.data} is supporting data for the \texttt{seq2pathway} package. The package includes pre-defined gene sets which are constructed from \texttt{R} package \texttt{org.Hs.eg.db}\cite{Carlson} for GeneOntology and the Molecular Signatures Database (MsigDB)\cite{Subramanian} for other functional gene sets. The gene locus definitions in the package is built from the \texttt{GENCODE project}\cite{Harrow}, including \texttt{GENCODE} \texttt{36} (hg38), \texttt{GENCODE} \texttt{19} (hg19), \texttt{GENCODE} \texttt{mmvM25} (mm10) and \texttt{GENCODE} \texttt{mmvM1} (mm9) currently.
   
   
 %-------------------------------------------
